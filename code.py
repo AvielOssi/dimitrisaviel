@@ -5,4 +5,4 @@ System.out.println("test"");
 
 print("PAOK")
 
-print("PAOK")
+print("PAOKARA OLE!")
